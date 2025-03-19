@@ -1,0 +1,12 @@
+2025-03-19 23:26:02 [INFO]: Server running on port 3000
+2025-03-19 23:26:02 [INFO]: Environment: development
+2025-03-19 23:27:15 [INFO]: Starting CSV generation process
+2025-03-19 23:27:15 [INFO]: Fetching users from: https://jsonplaceholder.typicode.com/users
+2025-03-19 23:27:15 [INFO]: Fetching posts from: https://jsonplaceholder.typicode.com/posts
+2025-03-19 23:27:15 [INFO]: Fetching comments from: https://jsonplaceholder.typicode.com/comments
+2025-03-19 23:27:15 [INFO]: Data fetched: Users: 10, Posts: 100, Comments: 500
+2025-03-19 23:27:15 [INFO]: Combined 500 records for CSV generation
+2025-03-19 23:27:15 [INFO]: Generating CSV file: data\api-data-2025-03-19T17-57-15-726Z.csv
+2025-03-19 23:27:15 [INFO]: CSV file generated successfully at: data\api-data-2025-03-19T17-57-15-726Z.csv
+2025-03-19 23:31:44 [INFO]: Server running on port 3000
+2025-03-19 23:31:44 [INFO]: Environment: development

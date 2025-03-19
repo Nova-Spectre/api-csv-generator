@@ -1,0 +1,27 @@
+{
+    "name": "api-csv-generattor",
+    "version": "1.0.0",
+    "description": "Express.js API that generates CSV from multiple API endpoints",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js",
+      "dev": "nodemon src/server.js",
+      "test": "jest"
+    },
+    "dependencies": {
+      "axios": "^1.6.2",
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "express-async-handler": "^1.2.0",
+      "fast-csv": "^4.3.6",
+      "fs-extra": "^11.1.1",
+      "winston": "^3.11.0"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0",
+      "nodemon": "^3.0.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
